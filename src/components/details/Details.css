@@ -1,0 +1,32 @@
+.details-container {
+    margin-top: 5rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgba(20, 110, 180, 0.05);
+}
+.details {
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+}
+
+
+.details-card {
+    width: 33%;
+    flex-wrap: wrap;
+    overflow-wrap: break-word;
+    line-height: 25px;
+    font-weight: medium;
+    text-align: center;
+}
+
+.details-card h3 {
+    margin: 1.2rem 0 1rem 0;
+    font-size: 2.5rem;
+}

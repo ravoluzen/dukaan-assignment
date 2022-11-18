@@ -1,0 +1,33 @@
+.products-container {
+    width: 70%;
+    text-align: left;
+    margin-top: 5rem;
+}
+.products-container h1 {
+    font-size: 2.5rem;
+    font-weight: bolder;
+    padding-bottom: 2.5rem;
+}
+.products {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 5rem;
+}
+.product-card {
+    width: 30%;
+    text-align: left;
+    margin-bottom: 1.5rem;
+}
+
+.product-card img {
+    width: 100%;
+    margin-bottom: 1.2rem;
+}
+
+.product-card p {
+    margin-top: 10px;
+    line-height: 1.5rem;
+}

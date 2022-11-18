@@ -1,0 +1,73 @@
+.footer {
+    width: 100%;
+    height: 35vh;
+    background-color: #1A181E;
+    color: white;
+}
+
+.footer-content {
+    margin-top: 5rem;
+    padding-bottom: 1.2rem;
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    box-shadow: 0 2px 1px -2px #D9D9D9;
+    font-weight: 300;
+}
+
+.footer, .links, .social-links {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+}
+
+.links {
+    width: 60%;
+    margin-left: 5%;
+}
+
+.links ul {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+.links li, .social-links li{
+    flex: 1 25%;
+    font-weight: 300;
+    margin-bottom: 1.5rem;
+    font-size: 1rem;
+
+}
+
+.dukaan-logo {
+    width: 160px;
+    height: 44px;
+}
+
+.signoff-text {
+    padding-bottom: 2rem;
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.signoff-text p {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.signoff-text img {
+    margin-left: 5px;
+}
