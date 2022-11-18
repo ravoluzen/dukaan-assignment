@@ -1,8 +1,8 @@
-import "./Main.css"
+import "./MainContent.css"
 import cross from "../../assets/cross.png"
 import arrow from "../../assets/arrow.png"
 
-export default function Main() {
+export default function MainContent() {
   const results = [];
   for(let i =0; i<18; i++){
     results.push("There is no Sore it will Not Heal, No cool it will not Subdue.")

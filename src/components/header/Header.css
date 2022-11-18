@@ -40,5 +40,8 @@ header {
     height: 3rem;
     border-radius: 0.2rem;
     font-size: 1.2rem;
+}
 
+.link-container, .header-button {
+    cursor: pointer;
 }

@@ -1,5 +1,5 @@
 import "./Details.css"
-import InfoCard from "../InfoCard"
+import InfoCard from "../info-card/InfoCard"
 import  search from "../../assets/search.png"
 import  select from "../../assets/select.png"
 import  standout from "../../assets/standout.png"

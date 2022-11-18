@@ -1,5 +1,5 @@
 import "./Products.css"
-import InfoCard from "../InfoCard"
+import InfoCard from "../info-card/InfoCard"
 import ppg from "../../assets/ppg.png"
 import tcg from "../../assets/tcg.png"
 import ivg from "../../assets/ivg.png"
